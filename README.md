@@ -11,4 +11,4 @@ https://restcountries.com/v2/name
 
 So far we have up to three passages of arguments per command line (currency, population, count) and thus will be updated in the future with several more passages
 
-Usage: python paises.py <action> <country>
+Usage: python paises.py {action} {country}
